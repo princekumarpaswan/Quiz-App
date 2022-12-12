@@ -2,8 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Quiz-App](https://game-prince.netlify.app/)
-
+## [Link to the Quiz-App](https://quiz-aappp.netlify.app/)
 
 ![Completed Website](./q1.png)
 ![](./q2.png)
